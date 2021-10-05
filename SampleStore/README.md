@@ -1,4 +1,4 @@
-# WSO2 API Manager Project
+# WSO2 API Manager Project 4.0.0
 
 ## Project structure
 
